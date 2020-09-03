@@ -1,4 +1,5 @@
-# vueh5
+
+# vue-cli4.0+vant搭建移动端项目模板2020-09
 
 ## Project setup
 ```
@@ -20,5 +21,6 @@ yarn build
 yarn lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 效果图
+```
+![avatar](./src/assets/images/p.gif)
